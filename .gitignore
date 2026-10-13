@@ -1,0 +1,8 @@
+﻿# 系统/编辑器临时文件
+Thumbs.db
+desktop.ini
+*.tmp
+*~
+.DS_Store
+
+# 不加 ignore 的: dist/*.zip —— 发布产物必须提交
